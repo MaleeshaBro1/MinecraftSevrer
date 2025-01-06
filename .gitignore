@@ -1,0 +1,39 @@
+# Logs
+logs/
+*.log
+
+# Minecraft server properties
+server.properties
+eula.txt
+ops.json
+whitelist.json
+usercache.json
+
+# World data
+world/
+world_nether/
+world_the_end/
+
+# Mods and plugins
+mods/
+plugins/
+
+# Backup and temporary files
+backups/
+*.tmp
+*.bak
+
+# IDE/editor-specific files
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# System files
+Thumbs.db
