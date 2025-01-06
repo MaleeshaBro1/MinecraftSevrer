@@ -1,2 +1,2 @@
-# MinecraftSevrer
+# MinecraftServer
 Best Minecraft Server
